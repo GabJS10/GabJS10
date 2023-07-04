@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm GabJS10 👋
 
-<!--
-**GabJS10/GabJS10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello, I am a **systems engineering** student in Colombia, I love the degree and especially programming, which has always captivated me and caught my attention, 
+I have always liked programming and making things happen! Currently I am focused on web development, especially backend, using Django and Spring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#My Skills
+
+* Programming languages: Python, Java, Javascript
+* Frameworks: Django, Spring boot
+* Web development: React
+* SQL and NoSQL
+
+#Contact me
+* [Linkedin](https://www.linkedin.com/in/gabriel-ballesteros-3114b916a/)
+* mail: jgabis65@gmail.com
