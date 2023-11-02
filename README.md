@@ -14,4 +14,4 @@ I have always liked programming and making things happen! Currently I am focused
 ### Contact me
 * [Linkedin](https://www.linkedin.com/in/gabriel-ballesteros-3114b916a/)
 * mail: jgabis65@gmail.com
-* [LeetCode]: (https://leetcode.com/GabJS10/)
+* [LeetCode](https://leetcode.com/GabJS10/)
