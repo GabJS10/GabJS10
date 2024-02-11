@@ -7,8 +7,8 @@ I have always liked programming and making things happen! Currently I am focused
 ### My Skills
 
 * Programming languages: Python, Java, Javascript
-* Frameworks: Django, Spring boot
-* Web development: React
+* Frameworks: Django, Spring boot, Express
+* Web development: React, NextJS
 * SQL and NoSQL
 
 ### Contact me
