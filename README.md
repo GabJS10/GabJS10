@@ -2,7 +2,7 @@
 
 
 Hello, I am a **systems engineering** student in Colombia, I love the degree and especially programming, which has always captivated me and caught my attention, 
-I have always liked programming and making things happen! Currently I am focused on web development, especially backend, using Django and Spring.
+I have always liked programming and making things happen! Currently I am focused on web development, especially backend, using Django, NestJS, and more.
 
 ### My Skills
 
